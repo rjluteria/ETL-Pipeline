@@ -1,0 +1,36 @@
+{
+  "stations": {
+    "Demo Station": [
+      "Demo City",
+      "Demo Province",
+      "Demo Region",
+      "Demo Country"
+    ]
+  },
+  "groups": {
+    "Demo Group": [
+      "Example, Customer"
+    ]
+  },
+  "charging_points": {
+    "Demo Station": [
+      {
+        "cp_id": "DEMO-001",
+        "active_hrs": 24
+      }
+    ]
+  },
+  "billing": {
+    "stations": [
+      "Demo Station"
+    ],
+    "customers": [
+      "Example, Customer"
+    ]
+  },
+  "station_blacklist": [],
+  "cutoff_date": "2024-01-01",
+  "station_normalization": [
+    "Demo Station"
+  ]
+}
